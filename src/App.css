@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Yellowtail&display=swap");
+
+.notfounded {
+  height: 88vh;
+  width: 100%;
+  object-fit: cover;
+}
+.addstudent {
+  padding: 20px;
+}
+.assignmentor {
+  padding: 20px;
+}
+.updatementor {
+  padding: 20px;
+}
+
+.homepage {
+  background-image: linear-gradient(
+    to right top,
+    #794a97,
+    #9f458f,
+    #bd437f,
+    #d3476b,
+    #df5554,
+    #e75651,
+    #ef574e,
+    #f6584b,
+    #ff4263,
+    #ff2b80,
+    #ff1ca2,
+    #f228c6
+  );
+  height: 100vh;
+  color: black;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-content: center;
+}
